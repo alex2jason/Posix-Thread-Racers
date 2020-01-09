@@ -1,0 +1,11 @@
+commit 230cf6881babae24c6242ee33cf8a73ee5befb65
+Author: Colin Reed Sivak <crs4665@cs.rit.edu>
+Date:   Fri Dec 1 23:47:33 2017 -0500
+
+    I dont know why it doesnt work
+
+commit 2ed29da0b4f9ba4cb2471b49b307ed8a21f7d0a1
+Author: Colin Reed Sivak <crs4665@cs.rit.edu>
+Date:   Fri Dec 1 19:53:33 2017 -0500
+
+    Oops forgot git lol
